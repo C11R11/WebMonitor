@@ -1,2 +1,2 @@
 # WebMonitor
-Monitor web page
+Sistema web para ver logs de sistema de servidor
